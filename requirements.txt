@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+openai
+transformers
+sentence-transformers
+pytest
